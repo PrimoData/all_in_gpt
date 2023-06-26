@@ -1,0 +1,9 @@
+pandas==1.5.3
+gradio
+notebook
+llama-index
+openai
+llama-hub
+youtube-transcript-api==0.5.0
+pytube
+youtube-dl
